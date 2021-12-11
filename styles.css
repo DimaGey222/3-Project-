@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+
+
+body {
+    background-color: whitesmoke;
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+a {
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+ 
+}
+
+a:hover {
+    text-decoration: underline;
+}
+ a:active {
+     color: darkblue;
+ }
+
+.ken {
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 14px black;
+}
+.oleg {
+    width: 500px;
+    border-radius: 10px;
+}
+.der p{
+    color: crimson;
+    margin: 0%;
+    font-weight: bold;
+    font-style: initial;
+    text-decoration: orchid;
+    /*text-decoration: ;*/
+    /*letter-spacing: 2px;*/
+    /*word-spacing: 23px;*/
+
+}
+/*.info {*/
+    /*background: rgb(72, 167, 9);*/
+    /* padding: 15px*/
+    /*padding: 15px 40px;
+    border: 10px groove rebeccapurple;*/
+    /* border-bottom-style: groove ;
+    border-left-style: groove;
+    border-right-style: groove;
+    border-top-style: groove ;*/
+    /*border-width: 15px;
+    margin: 20px;
+
+}*/
+.sss {
+    max-width: 75%;
+    margin: auto;
+    padding-top: 30px;
+}
+/*.box-mode > div {
+    float: left;
+    background: violet;
+    height: 200px;
+    border:4px solid blueviolet ;
+    width: 25%;
+    box-sizing: border-box;
+}*/
+.bg-yellow {
+    background: tan;
+    margin-bottom: 20px;
+}
+.bg-blue {
+    background: tan;
+    margin-bottom: 20px;
+}
+.bg-white {
+    background: tan;
+    margin-bottom: 20px ;
+}
+.card{
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+.info {
+    margin-bottom: 10px;
+    
+}
+* {
+    list-style: circle;
+}
+.fact {
+    width: 100%;
+}
+.fact td {
+ padding-bottom: 10px;
+}
+.bg-red {
+    background: tan;
+    margin-bottom: 20px;
+    list-style: circle;
+}
+.bg-red li {
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+
+}
+.ava { 
+    width: 250px;
+border-radius: 25px ;
+}
+.der {
+    display: flex;
+    margin-bottom: 20px;
+}
+.der-text h4 {
+     margin-bottom: 10px;
+}
